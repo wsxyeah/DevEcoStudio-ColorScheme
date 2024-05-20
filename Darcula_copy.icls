@@ -1,0 +1,119 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2024-05-20T20:31:12</property>
+    <property name="ide">DevEcoStudio</property>
+    <property name="ideVersion">5.0.3.300.0</property>
+    <property name="modified">2024-05-20T20:31:15</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <attributes>
+    <option name="ACE_ETS_COMPONENT_NAME" baseAttributes="ACE_TS_CLASS" />
+    <option name="ACE_ETS_STRUCT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_JS_ARROW_FUNCTION">
+      <value />
+    </option>
+    <option name="ACE_JS_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="ACE_JS_BRACES">
+      <value />
+    </option>
+    <option name="ACE_JS_BRACKETS">
+      <value />
+    </option>
+    <option name="ACE_JS_CLASS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_JS_COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="ACE_JS_DOT">
+      <value />
+    </option>
+    <option name="ACE_JS_FUNCTION_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="ACE_JS_HEX_DIGIT">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="ACE_JS_INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+    <option name="ACE_JS_KEYWORDS">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ACE_JS_LABEL">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_JS_NEW_CLASS">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_JS_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="ACE_JS_OBJECT_KEY">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+      </value>
+    </option>
+    <option name="ACE_JS_OPERATION">
+      <value />
+    </option>
+    <option name="ACE_JS_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_JS_PARENTHESIS">
+      <value />
+    </option>
+    <option name="ACE_JS_REGULAR_EXPRESSION">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="ACE_JS_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="ACE_JS_STRING">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="ACE_JS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="ACE_TS_DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
